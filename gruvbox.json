@@ -42,7 +42,7 @@
     "rofi_bg": "bg",
     "rofi_bg_alt": "bg0",
     "rofi_fg": "fg",
-    "rofi_selected": "yellow",
+    "rofi_selected": "magenta",
     "rofi_active": "green",
     "rofi_urgent": "red"
     },
@@ -51,6 +51,6 @@
     "alacritty_opacity": 90,
     "i3_gap_inner": 10,
     "i3_gap_outer": 0,
-    "i3_wallpaper": "$HOME/Pictures/bg4.png"
+    "i3_wallpaper": "$HOME/Pictures/sp1.jpeg"
   }
 }

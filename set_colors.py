@@ -17,8 +17,6 @@ except:
     print(f"ERROR: config file '{config_file}' not found!")
     exit(1)
 
-print(master_config)
-
 # Scan ../config_files/dyanmic/ for all template config files
 config_paths = []
 for root, dirs, files in os.walk(templates):
@@ -27,8 +25,6 @@ for root, dirs, files in os.walk(templates):
         rel_path = root.split(os.sep)[2:]
         output_path = os.path.join(home, '.config', *rel_path, file)
         config_paths.append([template_path, output_path])
-
-print(config_paths)
 
 # Fill in templates with master config vals, write out
 for template_path, output_path in config_paths:
