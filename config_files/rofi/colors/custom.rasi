@@ -1,0 +1,8 @@
+* {
+    background:     [rofi_bg];
+    background-alt: [rofi_bg_alt];
+    foreground:     [rofi_fg];
+    selected:       [rofi_selected];
+    active:         [rofi_active];
+    urgent:         [rofi_urgent];
+}

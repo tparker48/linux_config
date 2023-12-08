@@ -1,0 +1,56 @@
+{
+  "colors":{
+    "bg": "#282828",
+    "bg0": "#1d2021",
+    "fg": "#ebdbb2",
+    "black": "#3c3836",
+    "blue": "#83a598",
+    "cyan": "#8ec07c",
+    "green": "#b8bb26",
+    "magenta": "#d3869b",
+    "red": "#fb4934",
+    "white": "#fbf1c7",
+    "yellow": "#d79921"
+  },
+
+  "color_assignments":{
+    "txt1": "fg",
+    "txt2": "yellow",
+
+    "i3_focused": "bg",
+    "i3_focused_inactive": "bg",
+    "i3_unfocused":"bg",
+    "i3_urgent":"red",
+    "i3_placeholder":"cyan",
+
+    "cava_fg": "magenta",
+
+    "poly_bg": "bg",
+    "poly_bg_alt": "bg0",
+    "poly_fg": "fg",
+    "poly_primary": "red",
+    "poly_secondary": "blue",
+    "poly_alert": "red",
+
+    "poly_c1": "red",
+    "poly_c2": "green",
+    "poly_c3": "yellow",
+    "poly_c4": "blue",
+    "poly_c5": "magenta",
+    "poly_c6": "cyan",
+
+    "rofi_bg": "bg",
+    "rofi_bg_alt": "bg0",
+    "rofi_fg": "fg",
+    "rofi_selected": "yellow",
+    "rofi_active": "green",
+    "rofi_urgent": "red"
+    },
+
+  "misc":{
+    "alacritty_opacity": 90,
+    "i3_gap_inner": 10,
+    "i3_gap_outer": 0,
+    "i3_wallpaper": "$HOME/Pictures/bg4.png"
+  }
+}

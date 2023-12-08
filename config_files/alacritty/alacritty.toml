@@ -1,0 +1,27 @@
+[colors.bright]
+black = "[black]"
+blue = "[blue]"
+cyan = "[cyan]"
+green = "[green]"
+magenta = "[magenta]"
+red = "[red]"
+white = "[white]"
+yellow = "[yellow]"
+
+[colors.normal]
+black = "[black]"
+blue = "[blue]"
+cyan = "[cyan]"
+green = "[green]"
+magenta = "[magenta]"
+red = "[red]"
+white = "[white]"
+yellow = "[yellow]"
+
+[colors.primary]
+background = "[bg]"
+foreground = "[fg]"
+
+[font.normal]
+family = "NotoMono NF"
+style = "Regular"

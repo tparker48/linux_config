@@ -1,0 +1,7 @@
+[output]
+channels = mono
+
+[color]
+background = '[bg]'
+foreground = '[fg]'
+
